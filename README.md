@@ -1,7 +1,7 @@
 # Colearning
 Colearning project for OUR team to learn and master the following 
-1. Neo4j 
-2. AWS Mashine Learning
+1. [Neo4j Academy](https://neo4j.com/graphacademy/)
+2. [AWS Mashine Learning}(https://aws.amazon.com/getting-started/?nc1=f_cc)
 3. ???
 # todo
 [ICS (iCal) calendar]: 
